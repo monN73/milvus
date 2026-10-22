@@ -95,6 +95,9 @@ cpp_coverage/
 venv/
 .venv/
 
+# Conan local cache (CONAN_HOME)
+.conan2/
+
 # Python egg-info
 *.egg-info/
 
